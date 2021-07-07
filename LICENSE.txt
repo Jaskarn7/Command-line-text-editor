@@ -4,4 +4,4 @@
 
 The files are free to use and modify for anybody but:
     1. One cannot sell the software
-    2. If someone modifies the code, then he/she must send me an e-mail with the changed file(s) attached file to it
+    2. If someone modifies the code, then he/she must send me an e-mail with the changed file(s) attached to it
